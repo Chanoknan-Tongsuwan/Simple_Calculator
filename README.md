@@ -1,3 +1,6 @@
+This code was created for portfolio purposes only.  
+Unauthorized copying or use is not allowed.
+
 # Simple Calculator 
 
 A basic calculator built with HTML, CSS, and JavaScript.  
