@@ -8,8 +8,8 @@ This project is part of my learning portfolio.
 - All Clear (C)
 - Responsive design for desktop and mobile
 
-## Live Demo
- [Click to Try the Calculator]()
+## GitHub Repository URL
+ [Click to Try the Calculator](https://github.com/Chanoknan-Tongsuwan/Simple_Calculator)
 
 ## Technologies
 - HTML
